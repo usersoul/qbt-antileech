@@ -64,7 +64,7 @@
       "deluge": ["-DE"],
       "libtorrent": ["-LT"],
       "bitcomet": ["-BC"],
-      "tixati": ["-TX"],
+      "tixati": ["TIX"],
       "vuze": ["-AZ"],
       "bittornado": ["-BB"]
     }
